@@ -4,10 +4,7 @@ We developed a transformer-based AI model that analyzes lung sound recordings to
 
 ## Demo Video
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/tauseef-2611/Healthy-Breath-Detection/blob/main/Healthybreathedemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch the [demo video](https://github.com/tauseef-2611/Healthy-Breath-Detection/blob/main/Healthybreathedemo.mp4) to see Healthy-Breath-Detection in action!
 
 
 ## Installation Instructions
